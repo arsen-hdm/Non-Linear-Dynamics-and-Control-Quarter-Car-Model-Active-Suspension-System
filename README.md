@@ -106,23 +106,26 @@ The project investigates how active suspensions degrade under imperfect real-wor
 
 ---
 
-## 🧪 Technologies
+## 🧪 Technologies and Requirements
 
-- MATLAB
+- MATLAB R2024a
 - Simulink
 - Control System Toolbox
 - Model Predictive Control Toolbox
+- Optimization Toolbox
+- Symbolic Toolbox
 
 ---
 
 ## 📂 Repository Structure
 
+In each folder you'll find the respective scripts used in the report.
+The main file to run is present in the 'chapter3' folder and it's user-oriented so you can easly run all the scenarios without the need to modify any code.
+
 ```text
 .
-├── main.m
-├── models/
-├── controllers/
-├── simulations/
-├── figures/
-├── report/
+├── chapter1/
+├── chapter2/
+├── chapter3/
+├── report and ppt/
 └── README.md
