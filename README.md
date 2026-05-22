@@ -127,5 +127,5 @@ The main file to run is present in the 'chapter3' folder and it's user-oriented 
 ├── chapter1/
 ├── chapter2/
 ├── chapter3/
-├── report and ppt/
+├── report and ppt
 └── README.md
